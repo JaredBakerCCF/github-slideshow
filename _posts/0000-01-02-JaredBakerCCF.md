@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Adding this line"
+"CLI is the way to go"
 Use the left arrow to go back!
